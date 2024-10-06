@@ -1,0 +1,9 @@
+vim.opt.expandtab = true
+vim.opt.tabstop = 2
+vim.opt.softtabstop = 2
+vim.opt.shiftwidth = 2
+vim.opt.colorcolumn = "73"
+vim.opt.tw = 72
+vim.opt.spell = true
+vim.opt.spelllang = "en_us,en_gb"
+vim.opt.spellsuggest = "best"
